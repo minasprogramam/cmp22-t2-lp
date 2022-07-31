@@ -1,2 +1,2 @@
 # CMP-22-GIT
-Curso Minas Programam 2022 | Turma II
+Curso Minas Programam 2022 | Turma II | Lógica de Programação
