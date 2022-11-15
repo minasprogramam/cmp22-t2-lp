@@ -79,6 +79,7 @@ const not_nao = !estritamenteDiferente;
 
 ```javascript
 for (let i = 0; i < 10; i++) {
+  console.log(i);
   // esse trecho de código será executado enquanto i for
   // menor que dez e a cada vez que rodar
   // i será incrementado com +1
@@ -88,6 +89,7 @@ for (let i = 0; i < 10; i++) {
 ```javascript
 const contador = 0;
 while (contador < 10) {
+  console.log(contador);
   // esse trecho de código será executado enquanto
   // o contador for menor que 10. Se não tivermos cuidado
   // poderemos cair em um loop infinito. Logo, dentro desse while
